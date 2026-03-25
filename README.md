@@ -1,3 +1,6 @@
+![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?logo=flutter)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 # VendraStor
 
 A modern Flutter e-commerce application built with Clean Architecture, Bloc/Cubit state management, and scalable feature-based modules.
@@ -41,18 +44,19 @@ Dependency flow:
 - Secure storage (`flutter_secure_storage`)
 - Internationalization (`flutter_localizations`, `intl`)
 
-## Screenshots / Demo
+## 📱 App Screenshots
 
-Add your screenshots to `assets/screenshots/` and update these links:
+| Home | Categories |
+|-----|-----|
+| ![](assets/screenshots/home.png) | ![](assets/screenshots/categories.png) |
 
-- Home: `assets/screenshots/home.png`
-- Product Details: `assets/screenshots/product_details.png`
-- Cart: `assets/screenshots/cart.png`
-- Profile: `assets/screenshots/profile.png`
+| Cart | Product Details |
+|-----|-----|
+| ![](assets/screenshots/cart.png) | ![](assets/screenshots/product_details.png) |
 
-If you publish a demo video, add it here:
-
-- Demo: [Coming soon](https://example.com)
+| Profile | Settings |
+|-----|-----|
+| ![](assets/screenshots/profile.png) | ![](assets/screenshots/settings.png) |
 
 ## Getting Started
 
@@ -66,7 +70,7 @@ If you publish a demo video, add it here:
 ### Installation
 
 ```bash
-git clone https://github.com/<your-username>/vendrastor.git
+git clone https://github.com/MahdiElradi/vendrastor.git
 cd vendrastor
 flutter pub get
 ```
@@ -121,11 +125,6 @@ Example:
 git checkout -b feature/product-search
 ```
 
-## License
-
-This project is licensed under the MIT License.  
-Create a `LICENSE` file if you want to publish it publicly.
-
 ## Author
 
-- GitHub: [@your-username](https://github.com/your-username)
+- GitHub: [@MahdiElradi](https://github.com/MahdiElradi)
